@@ -18,7 +18,6 @@ Note: Google Forms requires that the form field exists (short answer). The POST 
 https://docs.google.com/forms/d/e/FORM_ID/formResponse and the input name must be "entry.xxxx".
 -->
 
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
